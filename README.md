@@ -1,4 +1,4 @@
-# Basic Laravel Utilizing Eloquent ORM and Query Builder
+# Basic Laravel with Eloquent ORM and Query Builder
 
 ## Covering:
 - Database Configuration
