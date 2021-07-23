@@ -1,0 +1,1 @@
+# Basic-Laravel-Utilizing-Eloquent-ORM-and-Query-Builder
