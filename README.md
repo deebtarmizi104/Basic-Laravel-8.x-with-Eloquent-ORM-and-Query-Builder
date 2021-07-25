@@ -12,7 +12,7 @@
 - Managing Database using Query Builder
   * Read Data
   * Insert Data
-  * Joining Data with 1 Column
+  * Joining Table Data with 1 Column
   * Modify Data
   * Data with Image
 - Soft Delete Data, Data Restore, Force Delete Data (Permanently delete)
