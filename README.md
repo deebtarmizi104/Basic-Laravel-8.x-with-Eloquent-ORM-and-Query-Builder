@@ -15,6 +15,8 @@
   * One to One Relationships
   * Modify Data
   * Data with Image
+- Soft Delete Data, Data Restore, Force Delete Data (Permanently delete)
+- Brand Page Setup
 
 ## Make use of:
 - LARAVEL 8.x
