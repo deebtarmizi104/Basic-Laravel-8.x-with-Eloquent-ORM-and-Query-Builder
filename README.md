@@ -9,6 +9,8 @@
   * One to One Relationships
   * Modify Data
   * Data with Image
+  * Image Insertion
+  * Modifying Data with and without Image
 - Managing Database using Query Builder
   * Read Data
   * Insert Data
