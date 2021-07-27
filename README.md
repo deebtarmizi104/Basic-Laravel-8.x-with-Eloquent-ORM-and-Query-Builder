@@ -19,6 +19,8 @@
   * Data with Image
 - Soft Delete Data, Data Restore, Force Delete Data (Permanently delete)
 - Image Validation Setup
+  * 'image' => 'required|mimes:jpg.jpeg, png',  OR
+  * 'image' => 'required|image|file',
 
 ## Make use of:
 - LARAVEL 8.x
