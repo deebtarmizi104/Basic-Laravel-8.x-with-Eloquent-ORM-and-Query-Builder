@@ -46,4 +46,5 @@
 * create middleware - php artisan make:middleware middleware_name
 * listing route - php artican r:l OR php artisan route:list
 * install laravel helpers - composer require laravel/helpers
-* image intervention installation - http://image.intervention.io/getting_started/installation
+* image intervention installation - composer equire intervention/image
+  - http://image.intervention.io/getting_started/installation
