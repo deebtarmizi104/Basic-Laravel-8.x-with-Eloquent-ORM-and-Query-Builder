@@ -48,3 +48,4 @@
 * install laravel helpers - composer require laravel/helpers
 * image intervention installation - composer equire intervention/image
   - http://image.intervention.io/getting_started/installation
+  - enable extension=gd in php.ini
