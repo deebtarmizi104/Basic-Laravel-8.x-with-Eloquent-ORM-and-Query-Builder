@@ -22,6 +22,7 @@
   * 'image' => 'required|mimes:jpg.jpeg, png',  OR
   * 'image' => 'required|image|file',
 - Image Insertion and Resixe with Intervention Package
+- Multiple Image Insertion
 
 ## Make use of:
 - LARAVEL 8.x
