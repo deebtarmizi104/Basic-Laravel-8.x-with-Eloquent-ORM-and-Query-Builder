@@ -23,6 +23,7 @@
   * 'image' => 'required|image|file',
 - Image Insertion and Resize with Intervention Package
 - Multiple Image Insertion
+- EmailVerification
 
 ## Make use of:
 - LARAVEL 8.x
@@ -50,3 +51,4 @@
 * image intervention installation - composer equire intervention/image
   - http://image.intervention.io/getting_started/installation
   - enable extension=gd in php.ini
+* email verification feature enabler - Features::emailVerification() in config -> fortify.php
