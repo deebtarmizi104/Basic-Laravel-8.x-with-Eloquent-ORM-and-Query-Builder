@@ -24,6 +24,8 @@
 - Image Insertion and Resize with Intervention Package
 - Multiple Image Insertion
 - EmailVerification
+- Middleware Auth User Access Control
+
 
 ## Make use of:
 - LARAVEL 8.x
