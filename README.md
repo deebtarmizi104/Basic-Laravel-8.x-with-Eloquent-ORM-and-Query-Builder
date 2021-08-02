@@ -54,3 +54,4 @@
   - http://image.intervention.io/getting_started/installation
   - enable extension=gd in php.ini
 * email verification feature enabler - Features::emailVerification() in config -> fortify.php
+* 419 error - check csrf tokens
