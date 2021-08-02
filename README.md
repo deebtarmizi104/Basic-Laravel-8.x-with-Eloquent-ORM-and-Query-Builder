@@ -25,6 +25,7 @@
 - Multiple Image Insertion
 - EmailVerification
 - Middleware Auth User Access Control
+- Toster with Laravel
 
 
 ## Make use of:
