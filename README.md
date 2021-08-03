@@ -1,4 +1,4 @@
-# Basic Laravel with Eloquent ORM and Query Builder
+# Basic Laravel 8.x with Eloquent ORM and Query Builder
 
 ## Covering:
 - Database Configuration
