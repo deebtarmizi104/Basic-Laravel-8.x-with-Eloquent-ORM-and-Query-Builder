@@ -25,7 +25,7 @@
 - Multiple Image Insertion
 - EmailVerification
 - Middleware Auth User Access Control
-- Toster with Laravel
+- Toastr with Laravel - https://cdnjs.com/libraries/toastr.js/latest
 
 
 ## Make use of:
